@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_hoe"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "item/main/chainblade"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/main/chainblade_extend1"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/main/chainblade_extend2"}
+
+	]
+
+
+}
