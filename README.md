@@ -1,4 +1,4 @@
 Resourcepack for Runeblade —— Minecraft Server
 
 runeblade.minehut.gg
-Version: 1.20.4
+Version: 1.21.10
