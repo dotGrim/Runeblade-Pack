@@ -1,0 +1,346 @@
+{
+
+	"grol.pate_1": {
+		"sounds":[
+			{
+				"name": "pate_1",
+				"weight": 1
+			}
+		]
+	},
+
+	"grol.pate_2": {
+		"sounds":[
+			{
+				"name": "pate_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"grol.merchant": {
+		"sounds":[
+			{
+				"name": "merchant",
+				"weight": 1
+			}
+		]
+	},
+
+	"grol.death": {
+		"sounds":[
+			{
+				"name": "you_died",
+				"weight": 1
+			}
+		]
+	},
+
+	"grol.violin": {
+		"sounds":[
+			{
+				"name": "worlds_smallest_violin",
+				"weight": 1
+			}
+		]
+	},
+
+    "sword.parry": {
+         "sounds":[
+             {
+                 "name": "swords/parry",
+                 "weight": 1
+             },
+			 {
+				"name": "swords/parry_2",
+				"weight": 1
+			 }
+         ]
+    },
+
+	"sword.slash": {
+		"sounds":[
+			{
+				"name": "swords/slash",
+				"weight": 3
+			},
+			{
+				"name": "swords/slash_2",
+				"weight": 1
+			},
+			{
+				"name": "swords/slash_3",
+				"weight": 3
+			}
+		]
+	},
+
+	"sword.alt_slash": {
+		"sounds":[
+			{
+				"name": "swords/alt_slash",
+				"weight": 1
+			},
+			{
+				"name": "swords/alt_slash_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.heavy_slash": {
+		"sounds":[
+			{
+				"name": "swords/heavy_slash",
+				"weight": 1
+			},
+			{
+				"name": "swords/heavy_slash_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.light_slash": {
+		"sounds":[
+			{
+				"name": "swords/light_slash",
+				"weight": 3
+			},
+			{
+				"name": "swords/light_slash_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.thrust": {
+		"sounds":[
+			{
+				"name": "swords/thrust",
+				"weight": 1
+			},
+			{
+				"name": "swords/thrust_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.heavy_thrust": {
+		"sounds":[
+			{
+				"name": "swords/heavy_thrust",
+				"weight": 1
+			},
+			{
+				"name": "swords/heavy_thrust_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.throw": {
+		"sounds":[
+			{
+				"name": "swords/throw",
+				"weight": 1
+			},
+			{
+				"name": "swords/throw_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.flames": {
+		"sounds":[
+			{
+				"name": "elemental/flames",
+				"weight": 1
+			},
+			{
+				"name": "elemental/flames_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.frost": {
+		"sounds":[
+			{
+				"name": "elemental/frost",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.frost_charge": {
+		"sounds":[
+			{
+				"name": "elemental/frost_charge",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.beam": {
+		"sounds":[
+			{
+				"name": "elemental/beam",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.whoosh": {
+		"sounds":[
+			{
+				"name": "swords/whoosh",
+				"weight": 1
+			}
+		]
+	},
+
+	"sword.sheen": {
+		"sounds":[
+			{
+				"name": "swords/sheen",
+				"weight": 1
+			},
+			{
+				"name": "swords/sheen_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.pulse": {
+		"sounds":[
+			{
+				"name": "elemental/pulse",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.earth_shake": {
+		"sounds":[
+			{
+				"name": "elemental/earth_shake",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.lightning": {
+		"sounds":[
+			{
+				"name": "elemental/lightning",
+				"weight": 1
+			},
+			{
+				"name": "elemental/lightning_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.lightning_strike": {
+		"sounds":[
+			{
+				"name": "elemental/lightning_strike",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.magic": {
+		"sounds":[
+			{
+				"name": "elemental/magic",
+				"weight": 1
+			},
+			{
+				"name": "elemental/magic_2",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.magic_aura": {
+		"sounds":[
+			{
+				"name": "elemental/magic_aura",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.magic_pulse": {
+		"sounds":[
+			{
+				"name": "elemental/magic_3",
+				"weight": 1
+			},
+			{
+				"name": "elemental/magic_4",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.eerie_magic": {
+		"sounds":[
+			{
+				"name": "elemental/eerie_magic",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.rocks": {
+		"sounds":[
+			{
+				"name": "elemental/rocks",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.shroud": {
+		"sounds":[
+			{
+				"name": "elemental/shroud",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.wind": {
+		"sounds":[
+			{
+				"name": "elemental/wind",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.pate_1": {
+		"sounds":[
+			{
+				"name": "elemental/pate_1",
+				"weight": 1
+			}
+		]
+	},
+
+	"elemental.pate_2": {
+		"sounds":[
+			{
+				"name": "elemental/pate_2",
+				"weight": 1
+			}
+		]
+	}
+}
