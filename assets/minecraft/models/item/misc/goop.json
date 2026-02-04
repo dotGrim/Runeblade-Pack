@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/goop",
-		"particle": "item/goop"
+		"particle": "block/goop"
 	},
 	"elements": [
 		{
