@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/anvil",
-		"2": "item/tile_1_3_1",
-		"3": "item/tile_12_3_1",
+		"2": "block/tile_1_3_1",
+		"3": "block/tile_12_3_1",
 		"particle": "block/ancient_debris_side"
 	},
 	"elements": [

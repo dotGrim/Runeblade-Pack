@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/tile_12_7",
+		"0": "block/tile_12_7",
 		"1": "block/blast_furnace_side",
 		"2": "block/red_glazed_terracotta",
-		"3": "item/tile_1_5",
-		"particle": "item/tile_12_7"
+		"3": "block/tile_1_5",
+		"particle": "block/tile_12_7"
 	},
 	"elements": [
 		{

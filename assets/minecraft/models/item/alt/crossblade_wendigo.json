@@ -4,7 +4,7 @@
 		"0": "block/quartz_block_top",
 		"2": "block/black_concrete_powder",
 		"3": "block/bone_block_top",
-		"4": "item/tile_15_5",
+		"4": "block/tile_15_5",
 		"particle": "block/quartz_block_top"
 	},
 	"elements": [

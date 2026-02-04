@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/katanahandle",
+		"1": "block/katanahandle",
 		"3": "block/quartz_block_top",
 		"4": "block/netherite_block",
 		"particle": "block/netherite_block"

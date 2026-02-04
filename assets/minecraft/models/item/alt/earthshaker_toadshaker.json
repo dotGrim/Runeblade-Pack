@@ -3,7 +3,7 @@
 	"textures": {
 		"3": "block/brown_mushroom_block",
 		"5": "block/mushroom_stem",
-		"6": "item/savskin",
+		"6": "block/savskin",
 		"7": "block/red_mushroom",
 		"particle": "block/andesite"
 	},
