@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/katanahandle",
-		"3": "item/tile_9_12",
-		"4": "item/tile_9_11",
-		"particle": "item/tile_9_11"
+		"1": "block/katanahandle",
+		"3": "block/tile_9_12",
+		"4": "block/tile_9_11",
+		"particle": "block/tile_9_11"
 	},
 	"elements": [
 		{
